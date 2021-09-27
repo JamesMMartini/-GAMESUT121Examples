@@ -5,10 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/20210913/InClassSelf.unity
-    guid: 22e87069877b96549932fd3ff46344ba
-  - enabled: 1
-    path: Assets/20210913/InClassSelf TWO.unity
-    guid: 87412e85d060d1e45895d3f6711d5a71
+  - enabled: 0
+    path: Assets/Week2 (Text and Sprites)/Week2HW/Week2HW Scene.unity
+    guid: ae3ae3c4ae8f5fa4dbc15bdb043e36df
   m_configObjects: {}
